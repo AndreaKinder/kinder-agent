@@ -1,0 +1,4 @@
+# Base de datos local de memoria (contiene perfil y conversaciones del usuario)
+*.db
+*.db-shm
+*.db-wal
